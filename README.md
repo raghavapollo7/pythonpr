@@ -10,3 +10,7 @@ Task 2 takes user's frist name and last name and prints a greeting sign which sa
 evenorodd.py is a python program that takes a numeric value as input from the user and checks whether the number is odd or even and prints the result accordingly.It uses a if-else statement for checking if the number is odd or even.
 
 sum1to50 is a python program that prints the sum from 1 to 50. It uses a for loop for iteration.
+
+fact is a python program that uses a user defined recursive function that prints the factorial of a number
+
+maths is a python program that uses the math module and prints the square root, natural log and sine value of a user inputed value
